@@ -23,3 +23,4 @@ Para entender recursividad es necesario entender recursivdidad
 No documentos el problema ; Arreglalo -- ati Bjorgvin Oddsson Programador
 
 "Seria genial que el error tipico de programacion sea tan solo la falta de un simple punto y coma ";"
+"CLAVE OK"
