@@ -11,3 +11,5 @@
 "Hardware: las partes de un ordenador que pueden ser pateadas" -- Jeff Pesis
 
 "La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos" -- Alan Kay
+
+"Recursividad" -- David Duran Valdes
