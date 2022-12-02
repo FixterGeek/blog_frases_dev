@@ -19,3 +19,7 @@ Para entender recursividad es necesario entender recursivdidad
 
 "No te preocupes si no funciona bien .Si todo estuviera correcto , serias despedido de tu trabajo" 
 -- Ley de MOsher de la Ingenieria del Software
+
+No documentos el problema ; Arreglalo -- ati Bjorgvin Oddsson Programador
+
+"Seria genial que el error tipico de programacion sea tan solo la falta de un simple punto y coma ";"
