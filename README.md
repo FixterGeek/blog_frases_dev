@@ -14,4 +14,8 @@
 
 Para entender recursividad es necesario entender recursivdidad 
 --Blissmo
-123
+
+"El arte desafia a la tecnologia y la tecngologia inspira arte" -- John Lasseter
+
+"No te preocupes si no funciona bien .Si todo estuviera correcto , serias despedido de tu trabajo" 
+-- Ley de MOsher de la Ingenieria del Software
